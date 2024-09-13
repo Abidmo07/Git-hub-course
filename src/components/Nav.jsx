@@ -2,7 +2,7 @@
 export default function Nav() {
   return (
     <div>
-      hello ramzi
+      hello
     </div>
   )
 }
