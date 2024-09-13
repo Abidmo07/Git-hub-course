@@ -2,7 +2,7 @@
 export default function Nav() {
   return (
     <div>
-      hello
+      hello world 
     </div>
   )
 }
